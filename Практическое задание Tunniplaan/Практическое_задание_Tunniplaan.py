@@ -1,5 +1,4 @@
 from tkinter import*
-from tkinter.messagebox import*
 
 tunniplaan=Tk()
 
@@ -86,6 +85,7 @@ def ingl_2():
     ingli_2.geometry("500x90")
     ingle_2=Label(ingli_2, text="õpetaja: Borodina Olga B 227", font="Calibri 26")
     ingle_2.pack()
+
 #######TUND JA KELL#######################################################################
 
 table_esimene=Label(text="")
